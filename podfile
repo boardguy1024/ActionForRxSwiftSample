@@ -9,6 +9,7 @@ target 'ActionForRxSwiftSample' do
     pod 'RxCocoa',    '~> 4.0'
     pod 'Action'
     pod 'Alamofire', '~> 4.5'
+    pod 'SwiftyJSON', '~> 4.0'
   # Pods for ActionForRxSwiftSample
 
 end
